@@ -75,21 +75,10 @@
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 
-<br>
-
-## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_kvadra.png)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
-[<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/stepik.png)
-
-<br>
-
 ## 🎒 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/RailRich/RailRich/refs/heads/main/2022eng.png)
 
 <br>
-<br> fvg
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:RailRich@yandex.ru)
