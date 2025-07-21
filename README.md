@@ -78,7 +78,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/RailRich/RailRich/refs/heads/main/Certificate2025.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/railrich/railrich/refs/heads/main/certificate2025.png)
 
 <br>
 <br>
