@@ -79,6 +79,15 @@
 
 ## 🎒 Образование
 [![Мой диплом](https://raw.githubusercontent.com/RailRich/RailRich/main/Certificate2025.png)](https://raw.githubusercontent.com/RailRich/RailRich/main/Certificate2025.png)
+<a href="https://raw.githubusercontent.com/RailRich/RailRich/main/Certificate2025.png">
+  <img
+    src="https://raw.githubusercontent.com/RailRich/RailRich/main/Certificate2025.png"
+    alt="Диплом"
+    width="150"
+    style="margin:10px;"
+  />
+</a>
+
 
 <br>
 <br>
