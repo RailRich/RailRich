@@ -82,7 +82,7 @@
   <img
     src="https://raw.githubusercontent.com/RailRich/RailRich/main/Certificate2025.png"
     alt="Диплом"
-    width="450"
+    width="750"
     style="margin:10px;"
   />
 </a>
